@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "inrsEgRapQI=",
+  "dgSpecHash": "+0ldBsyjtnI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cesur\\Desktop\\Kodlar\\Dynamic Island Win\\Dynamic Island Win\\Dynamic Island Win.csproj",
+  "projectFilePath": "C:\\Users\\cesur\\Desktop\\Dynamic-Island-Win\\Dynamic Island Win.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesur\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
   ],

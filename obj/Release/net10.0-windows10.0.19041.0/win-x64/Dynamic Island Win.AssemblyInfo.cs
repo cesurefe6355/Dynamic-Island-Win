@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dynamic Island Win")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9878107b42bad00eb3585b32c6be7bc8cc120c19")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dynamic Island Win")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dynamic Island Win")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

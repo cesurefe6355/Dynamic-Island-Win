@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cesur\\Desktop\\Kodlar\\Dynamic Island Win\\Dynamic Island Win\\Dynamic Island Win.csproj": {}
+    "C:\\Users\\cesur\\Desktop\\Dynamic-Island-Win\\Dynamic Island Win.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cesur\\Desktop\\Kodlar\\Dynamic Island Win\\Dynamic Island Win\\Dynamic Island Win.csproj": {
+    "C:\\Users\\cesur\\Desktop\\Dynamic-Island-Win\\Dynamic Island Win.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cesur\\Desktop\\Kodlar\\Dynamic Island Win\\Dynamic Island Win\\Dynamic Island Win.csproj",
+        "projectUniqueName": "C:\\Users\\cesur\\Desktop\\Dynamic-Island-Win\\Dynamic Island Win.csproj",
         "projectName": "Dynamic Island Win",
-        "projectPath": "C:\\Users\\cesur\\Desktop\\Kodlar\\Dynamic Island Win\\Dynamic Island Win\\Dynamic Island Win.csproj",
+        "projectPath": "C:\\Users\\cesur\\Desktop\\Dynamic-Island-Win\\Dynamic Island Win.csproj",
         "packagesPath": "C:\\Users\\cesur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cesur\\Desktop\\Kodlar\\Dynamic Island Win\\Dynamic Island Win\\obj\\publish\\win-x64\\",
+        "outputPath": "C:\\Users\\cesur\\Desktop\\Dynamic-Island-Win\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cesur\\AppData\\Roaming\\NuGet\\NuGet.Config",

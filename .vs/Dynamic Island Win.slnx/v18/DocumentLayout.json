@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cesur\\Desktop\\Dynamic-Island-Win\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFDAB92-6E6E-C6E3-AD9B-5810D56FE5A6}|Dynamic Island Win.csproj|c:\\users\\cesur\\desktop\\dynamic-island-win\\dynamic island win.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5CFDAB92-6E6E-C6E3-AD9B-5810D56FE5A6}|Dynamic Island Win.csproj|solutionrelative:dynamic island win.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dynamic Island Win",
+              "DocumentMoniker": "C:\\Users\\cesur\\Desktop\\Dynamic-Island-Win\\Dynamic Island Win.csproj",
+              "RelativeDocumentMoniker": "Dynamic Island Win.csproj",
+              "ToolTip": "C:\\Users\\cesur\\Desktop\\Dynamic-Island-Win\\Dynamic Island Win.csproj",
+              "RelativeToolTip": "Dynamic Island Win.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-25T10:58:24.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

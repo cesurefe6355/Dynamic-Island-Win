@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NxuurB1iy0w=",
+  "dgSpecHash": "xOaZaCU5aq8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cesur\\Desktop\\Kodlar\\Dynamic Island Win\\Dynamic Island Win\\Dynamic Island Win.csproj",
+  "projectFilePath": "C:\\Users\\cesur\\Desktop\\Dynamic-Island-Win\\Dynamic Island Win.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesur\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.11\\microsoft.net.illink.tasks.10.0.11.nupkg.sha512",
     "C:\\Users\\cesur\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.11\\microsoft.netcore.app.runtime.win-x64.10.0.11.nupkg.sha512",
