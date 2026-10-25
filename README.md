@@ -1,218 +1,187 @@
- <div align="center">
+<div align="center">
+
+<!-- ═══════════════ ANIMASYONLU BAŞLIK ═══════════════ -->
 
 <a href="https://github.com/cesurefe6355/Dynamic-Island-Win">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:0891B2&height=220&section=header&text=Dynamic%20Island%20Win&fontSize=54&fontColor=F8FAFC&fontAlignY=36&desc=Windows%20i%C3%A7in%20ak%C4%B1ll%C4%B1%20ve%20ak%C4%B1c%C4%B1%20bir%20masa%C3%BCst%C3%BC%20deneyimi&descSize=17&descAlignY=59&animation=fadeIn" alt="Dynamic Island Win — animated header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Dynamic%20Island%20Win&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Windows%20i%C3%A7in%20Modern%20Dinamik%20Ada%20Deneyimi&descAlignY=60&descSize=20" alt="Dynamic Island Win" />
 </a>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=700&color=67E8F9&center=true&vCenter=true&width=680&lines=Medya+kontrol%C3%BC+%C2%B7+zamanlay%C4%B1c%C4%B1+%C2%B7+hava+durumu;Ki%C5%9Fiselle%C5%9Ftirilebilir+widget%E2%80%99lar+ve+temalar;WPF+%2B+C%23+%2B+.NET+8+ile+geli%C5%9Ftirildi" alt="Özellikleri gösteren animasyonlu yazı" />
+<!-- ═══════════════ YAZI MAKİNESİ EFEKTİ ═══════════════ -->
+
+<a href="https://github.com/cesurefe6355/Dynamic-Island-Win">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Ak%C4%B1c%C4%B1+animasyonlar+%7C+%C3%96zelle%C5%9Ftirilebilir+widget'lar;Medya+%7C+Zamanlay%C4%B1c%C4%B1+%7C+Hava+durumu+%7C+Dosya+raf%C4%B1;WPF+%2B+C%23+ile+geli%C5%9Ftirilmi%C5%9F+modern+masa%C3%BCst%C3%BC+deneyimi;Ctrl+Shift+H+ile+tek+t%C4%B1kla+a%C3%A7%2Fkapat" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![C#](https://img.shields.io/badge/C%23-.NET-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![WPF](https://img.shields.io/badge/UI-WPF-512BD4?style=flat-square&logo=windows&logoColor=white)](https://learn.microsoft.com/dotnet/desktop/wpf/)
-[![.NET 8](https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![MIT License](https://img.shields.io/badge/License-MIT-0F766E?style=flat-square)](LICENSE)
+<!-- ═══════════════ TEKNOLOJİ BADGE'LERİ ═══════════════ -->
+
+[![C#](https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![WPF](https://img.shields.io/badge/WPF-Windows%20Presentation%20Foundation-512BD4?style=for-the-badge&logo=windows&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/)
+[![Windows 10/11](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 <br/>
 
-**Windows masaüstünde Dinamik Ada deneyimi.**
+<!-- ═══════════════ GITHUB METRİK BADGE'LERİ ═══════════════ -->
 
-Medya, araçlar ve hızlı işlemler — tek, zarif bir arayüzde.
+[![Releases](https://img.shields.io/github/v/release/cesurefe6355/Dynamic-Island-Win?style=for-the-badge&logo=github&color=2ea44f&label=Son%20Sürüm)](https://github.com/cesurefe6355/Dynamic-Island-Win/releases)
+[![Stars](https://img.shields.io/github/stars/cesurefe6355/Dynamic-Island-Win?style=for-the-badge&logo=github&color=yellow)](https://github.com/cesurefe6355/Dynamic-Island-Win/stargazers)
+[![Forks](https://img.shields.io/github/forks/cesurefe6355/Dynamic-Island-Win?style=for-the-badge&logo=github&color=blue)](https://github.com/cesurefe6355/Dynamic-Island-Win/network/members)
+[![Issues](https://img.shields.io/github/issues/cesurefe6355/Dynamic-Island-Win?style=for-the-badge&logo=github&color=red)](https://github.com/cesurefe6355/Dynamic-Island-Win/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=git)](https://github.com/cesurefe6355/Dynamic-Island-Win/pulls)
 
 <br/>
 
-[Özellikler](#-öne-çıkan-özellikler) · [Ekran görüntüleri](#-ekran-görüntüleri) · [Kurulum](#-kurulum) · [Hızlı bakış](#-hızlı-bakış) · [Lisans](#-lisans)
+<!-- ═══════════════ NAVİGASYON ═══════════════ -->
+
+[🚀 Özellikler](#-özellikler) • [🎬 Demo](#-demo) • [📦 Kurulum](#-kurulum) • [⌨️ Kısayollar](#️-klavye-kısayolları) • [🛠️ Teknolojiler](#️-kullanılan-teknolojiler) • [🤝 Katkı](#-katkıda-bulunma)
 
 </div>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:A78BFA&height=3&section=header&animation=twinkling" alt="Animasyonlu renk çizgisi" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
 
-## ✦ Proje hakkında
+<!-- ═══════════════ PROJE HAKKINDA ═══════════════ -->
 
-**Dynamic Island Win**, macOS/iOS tarafında tanınan Dinamik Ada fikrini Windows masaüstüne uyarlayan bir WPF uygulamasıdır. Medya denetimlerini, zamanlayıcıyı, hava durumunu ve sık kullanılan araçları küçük, genişletilebilir bir alanda bir araya getirir.
+## 🌟 Proje Hakkında
 
-Arayüz; akıcı geçişler, kişiselleştirilebilir temalar ve masaüstü kullanımına uygun etkileşimler üzerine kuruludur.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png" width="80" alt="Dynamic Island" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="80" alt="Party Popper" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="80" alt="Milky Way" />
+</div>
 
-## ✨ Öne çıkan özellikler
+**Dynamic Island Win**, Apple'ın popüler **Dynamic Island (Dinamik Ada)** konseptini Windows ekosistemine taşıyan, yüksek performanslı ve modern bir masaüstü uygulamasıdır. Arka planda çalışan medya oynatıcılarınızı yönetebilir, hızlı uygulama kısayolları oluşturabilir, zamanlayıcılar kurabilir ve anlık hava durumu takibi yapabilirsiniz.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>♫ Medya kontrolü</h3>
-      Desteklenen Windows medya oturumlarını görüntüleyin; oynatma, duraklatma ve parça geçişlerini ada üzerinden yönetin.
-    </td>
-    <td width="50%" valign="top">
-      <h3>◷ Zamanlayıcı</h3>
-      Geri sayım oluşturun; süre tamamlandığında sesli uyarı ve bitiş animasyonlarıyla haberdar olun.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⌁ Hızlı başlatma</h3>
-      Sık kullandığınız uygulama ve dosyaları kısayol alanına ekleyip hızlıca açın.
-    </td>
-    <td width="50%" valign="top">
-      <h3>▤ Dosya rafı</h3>
-      Dosya ve klasörleri sürükleyip bırakarak geçici olarak erişilebilir bir alanda tutun.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☼ Hava durumu</h3>
-      Open-Meteo verileriyle güncel hava koşullarını görüntüleyin.
-    </td>
-    <td width="50%" valign="top">
-      <h3>◈ Kişiselleştirme</h3>
-      Altı renk teması, yüzen/yapışkan görünüm ve çoklu monitör seçenekleri arasından tercih yapın.
-    </td>
-  </tr>
+> 💡 Tamamen **WPF** ve **C#** ile geliştirilmiş olup; özel arka plan renk geçişleri, yaylanma (*back ease*) efektleri, **global fare kancaları** ve **medya oturumu entegrasyonları** ile donatılmıştır.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
+
+<!-- ═══════════════ DEMO ═══════════════ -->
+
+## 🎬 Demo
+
+<div align="center">
+
+> ⚠️ **Not:** Aşağıdaki alana projenizin demo GIF'ini ekleyin.  
+> Önerilen format: `docs/demo.gif` (max 5MB, 60 FPS, `ffmpeg` ile optimize edilmiş)
+
+<!--
+  <img src="docs/demo.gif" alt="Dynamic Island Win Demo" width="800" />
+-->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated Demo Placeholder" width="700" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
+
+<!-- ═══════════════ ÖZELLİKLER ═══════════════ -->
+
+## 🚀 Özellikler
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Medya Entegrasyonu
+> Windows GSMTC desteği ile **Spotify**, **YouTube**, **VLC** gibi oynatıcılardan otomatik albüm kapağı, canlı ekolayzır dalgaları ve oynatma kontrolü.
+
+### ⏱️ Zamanlayıcı & Geri Sayım
+> Özelleştirilebilir saat/dakika/saniye ayarları, sentezlenmiş sesli uyarılar ve bitiş animasyonları.
+
+### 🚀 Hızlı Başlatma Yuvaları
+> En sık kullandığınız uygulama ve dosyaları **sürükle-bırak** ile yuvalara ekleyin, tek tıkla başlatın.
+
+### 📂 Dosya Rafı (Tray)
+> Dosyalarınızı adanın üzerine sürükleyip bırakarak geçici bir rafta saklayın.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌤️ Canlı Hava Durumu
+> **Open-Meteo API** entegrasyonu ile anlık sıcaklık ve hava durumu koşulları.
+
+### 🎨 6 Farklı Tema
+> Dark, Light, Dark Blue, Purple, Green ve Red temaları ile masaüstünüze uyum.
+
+### 📌 Çift Çalışma Modu
+> **Yüzen** mod (bağımsız) veya **Yapışkan** mod (ekran çentiği simülasyonu).
+
+### 🖥️ Çoklu Monitör Desteği
+> Adanın hangi ekranda konumlanacağını özgürce seçin.
+
+</td>
+</tr>
 </table>
 
-<details>
-  <summary><strong>Ek ayrıntılar</strong></summary>
-  <br/>
+<br/>
 
-  - Global kısayol: `Ctrl + Shift + H`
-  - WPF Storyboard ve easing tabanlı arayüz animasyonları
-  - Windows medya oturumu entegrasyonu (GSMTC)
-  - Fareyle etkileşim ve sürükle-bırak desteği
-  - Temalar: Dark, Light, Dark Blue, Purple, Green ve Red
-</details>
+<div align="center">
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:A78BFA&height=3&section=header&animation=twinkling" alt="Animasyonlu renk çizgisi" />
+| 🎯 Özellik | 📝 Açıklama | ⚡ Durum |
+|:---:|:---|:---:|
+| Medya Kontrolü | GSMTC üzerinden tam kontrol | ✅ Aktif |
+| Zamanlayıcı | Özel ses & animasyon | ✅ Aktif |
+| Dosya Rafı | Sürükle-bırak destekli | ✅ Aktif |
+| Hava Durumu | Open-Meteo entegrasyonu | ✅ Aktif |
+| Global Hotkey | `Ctrl+Shift+H` | ✅ Aktif |
+| Çoklu Monitör | Sınırsız ekran desteği | ✅ Aktif |
 
-## 🎞️ Ekran görüntüleri
+</div>
 
-Dynamic Island Win arayüzüne ve özelliklerine aşağıdaki ekran görüntülerinden göz atabilirsiniz.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
 
-<p align="center">
-  <img src="screenshot/screenshots1.png" width="85%" alt="Dynamic Island Win ana arayüzü" />
-</p>
+<!-- ═══════════════ TEMALAR ═══════════════ -->
 
-<p align="center"><em>Ana arayüz</em></p>
+## 🎨 Temalar
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="screenshot/screenshots2.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 2" />
-      <br/>
-      <sub>Görünüm 2</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="screenshot/screenshots3.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 3" />
-      <br/>
-      <sub>Görünüm 3</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="screenshot/screenshots4.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 4" />
-      <br/>
-      <sub>Görünüm 4</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="screenshot/screenshots6.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 5" />
-      <br/>
-      <sub>Görünüm 5</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="screenshot/screenshots7.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 6" />
-      <br/>
-      <sub>Görünüm 6</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:A78BFA&height=3&section=header&animation=twinkling" alt="Animasyonlu renk çizgisi" />
+| Tema | Önizleme | Açıklama |
+|:---:|:---:|:---|
+| 🌑 **Dark** | `#1C1C1E` | Varsayılan, göz yormayan koyu tema |
+| ☀️ **Light** | `#F2F2F7` | Aydınlık ortamlar için optimize |
+| 🌊 **Dark Blue** | `#0F2027` | Derin okyanus tonları |
+| 🔮 **Purple** | `#2A1B3D` | Şık mor geçişler |
+| 🌿 **Green** | `#1B3A2A` | Doğal ve sakin |
+| 🚨 **Red** | `#3D1B1B` | Cesur kırmızı vurgular |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
+
+<!-- ═══════════════ KISAYOLLAR ═══════════════ -->
+
+## ⌨️ Klavye Kısayolları
+
+<div align="center">
+
+| 🎹 Kısayol | 🔧 İşlev |
+|:---:|:---|
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd> | Adanın görünürlüğünü açar / kapatır (Global) |
+| <kbd>Esc</kbd> | Açılır pencereleri veya ayarları kapatır |
+| <kbd>Space</kbd> | Medya oynat / duraklat *(ada odaktayken)* |
+| <kbd>←</kbd> / <kbd>→</kbd> | Önceki / sonraki parça *(ada odaktayken)* |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
+
+<!-- ═══════════════ KURULUM ═══════════════ -->
 
 ## 📦 Kurulum
 
-### Hazır sürüm
-
-1. [**Releases**](https://github.com/cesurefe6355/Dynamic-Island-Win/releases/latest) sayfasını açın.
-2. Yayımlanmış en son sürümün arşivini indirin ve bir klasöre çıkarın.
-3. `Dynamic_Island_Win.exe` dosyasını çalıştırın.
-
-### Kaynak koddan çalıştırma
-
-Gereksinimler: **Windows 10/11** ve **.NET 8 SDK**.
-
-```powershell
-git clone https://github.com/cesurefe6355/Dynamic-Island-Win.git
-cd Dynamic-Island-Win
-dotnet restore
-dotnet build -c Release
-dotnet run
-```
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:A78BFA&height=3&section=header&animation=twinkling" alt="Animasyonlu renk çizgisi" />
-
-## ⚙️ Hızlı bakış
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⌨️ Klavye kısayolları</h3>
-      <p><kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd><br/><sub>Dinamik Ada'yı gösterir veya gizler.</sub></p>
-      <p><kbd>Esc</kbd><br/><sub>Açık pencere veya ayar görünümünü kapatır.</sub></p>
-      <p><kbd>Space</kbd><br/><sub>Ada odaktayken medyayı oynatır/duraklatır.</sub></p>
-      <p><kbd>←</kbd> / <kbd>→</kbd><br/><sub>Ada odaktayken önceki/sonraki parçaya geçer.</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Temalar</h3>
-      <p>⚫ <strong>Dark</strong> <code>#1C1C1E</code><br/><sub>Dengeli, koyu görünüm</sub></p>
-      <p>⚪ <strong>Light</strong> <code>#F2F2F7</code><br/><sub>Aydınlık arayüz</sub></p>
-      <p>🔵 <strong>Dark Blue</strong> <code>#0F2027</code> · 🌌 <strong>Purple</strong> <code>#2A1B3D</code></p>
-      <p>🟢 <strong>Green</strong> <code>#1B3A2A</code> · 🔴 <strong>Red</strong> <code>#3D1B1B</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧰 Teknoloji yığını</h3>
-      <p><strong>Arayüz</strong><br/><code>WPF</code> <code>XAML</code></p>
-      <p><strong>Uygulama katmanı</strong><br/><code>C#</code> <code>.NET 8</code></p>
-      <p><strong>Sistem entegrasyonu</strong><br/><code>Windows GSMTC</code> <code>Win32 API</code></p>
-      <p><strong>Servis ve animasyon</strong><br/><code>Open-Meteo API</code> <code>WPF Storyboards</code> <code>Easing</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗺️ Yol haritası</h3>
-      <p><strong>✓ Tamamlandı</strong><br/>
-      Medya oturumları · Zamanlayıcı · Dosya rafı<br/>
-      Hava durumu · 6 tema · Çoklu monitör<br/>
-      Global klavye kısayolu</p>
-      <p><strong>◷ Planlandı</strong><br/>
-      Bildirim merkezi · CPU/RAM monitörü<br/>
-      Çoklu dil desteği · Otomatik güncelleme</p>
-    </td>
-  </tr>
-</table>
-
-
-### Troubleshooting
-
-**The application does not start**
-- Make sure your Windows version is supported.
-- Install the .NET 8 Desktop Runtime if required by the application build.
-
-**Building from source fails**
-- Install the .NET 8 SDK.
-- Run `dotnet restore` before `dotnet build -c Release`.
-- Check the build output for missing dependencies or configuration errors.
-
-**Still having issues?**
-
-Open an issue in the [GitHub repository](https://github.com/cesurefe6355/Dynamic-Island-Win/issues) and include the error message and relevant details.
-
-
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında yayımlanır.
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:0891B2&height=110&section=footer&animation=twinkling" alt="Animasyonlu alt bilgi" />
+
+### 1️⃣ İndir & Çalıştır
+
+[![Download](https://img.shields.io/badge/⬇️%20Son%20Sürümü%20İndir-2ea44f?style=for-the-badge&logo=github)](https://github.com/cesurefe6355/Dynamic-Island-Win/releases/latest)
+
 </div>
+
+```bash
+# 1. Releases sayfasından en son sürümü (.zip) indirin
+# 2. Arşivdeki dosyaları uygun bir klasöre çıkartın
+# 3. Dynamic_Island_Win.exe dosyasını çalıştırın
+# 4. (İsteğe bağlı) Ayarlardan temanızı ve widget düzeninizi kişiselleştirin
