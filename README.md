@@ -24,7 +24,7 @@ Medya, araçlar ve hızlı işlemler — tek, zarif bir arayüzde.
 
 <br/>
 
-[Özellikler](#-öne-çıkan-özellikler) · [Kurulum](#-kurulum) · [Kısayollar](#-klavye-kısayolları) · [Teknolojiler](#-teknoloji-yığını) · [Katkı](#-katkıda-bulunma)
+[Özellikler](#-öne-çıkan-özellikler) · [Kurulum](#-kurulum) · [Hızlı bakış](#-hızlı-bakış) · [Lisans](#-lisans)
 
 </div>
 
@@ -74,11 +74,10 @@ Arayüz; akıcı geçişler, kişiselleştirilebilir temalar ve masaüstü kulla
 <details>
   <summary><strong>Ek ayrıntılar</strong></summary>
   <br/>
-
-  - Global kısayol: `Ctrl + Shift + H`
-  - WPF Storyboard ve easing tabanlı arayüz animasyonları
-  - Windows medya oturumu entegrasyonu (GSMTC)
-  - Fareyle etkileşim ve sürükle-bırak desteği
+  - Global kısayol: <code>Ctrl + Shift + H</code><br/>
+  - WPF Storyboard ve easing tabanlı arayüz animasyonları<br/>
+  - Windows medya oturumu entegrasyonu (GSMTC)<br/>
+  - Fareyle etkileşim ve sürükle-bırak desteği<br/>
   - Temalar: Dark, Light, Dark Blue, Purple, Green ve Red
 </details>
 
@@ -111,50 +110,47 @@ dotnet build -c Release
 dotnet run
 ```
 
-## ⌨️ Klavye kısayolları
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:A78BFA&height=3&section=header&animation=twinkling" alt="Animasyonlu renk çizgisi" />
 
-| Kısayol | İşlev |
-|:--|:--|
-| `Ctrl` + `Shift` + `H` | Dinamik Ada'yı gösterir veya gizler. |
-| `Esc` | Açık pencere veya ayar görünümünü kapatır. |
-| `Space` | Ada odaktayken medyayı oynatır/duraklatır. |
-| `←` / `→` | Ada odaktayken önceki/sonraki parçaya geçer. |
+## ⚙️ Hızlı bakış
 
-## 🎨 Temalar
-
-| Tema | Renk | Görünüm |
-|:--|:--|:--|
-| **Dark** | `#1C1C1E` | Dengeli, koyu görünüm |
-| **Light** | `#F2F2F7` | Aydınlık arayüz |
-| **Dark Blue** | `#0F2027` | Okyanus mavisi tonları |
-| **Purple** | `#2A1B3D` | Mor tonlar |
-| **Green** | `#1B3A2A` | Doğal yeşil tonları |
-| **Red** | `#3D1B1B` | Kırmızı vurgular |
-
-## 🧰 Teknoloji yığını
-
-| Alan | Kullanılan teknoloji |
-|:--|:--|
-| Arayüz | WPF, XAML |
-| Uygulama mantığı | C#, .NET 8 |
-| Medya oturumları | Windows GSMTC |
-| Hava durumu | Open-Meteo API |
-| Sistem entegrasyonu | Win32 API |
-| Arayüz animasyonları | WPF Storyboards, Easing |
-
-## 🗺️ Yol haritası
-
-- [x] Medya oturumu entegrasyonu
-- [x] Zamanlayıcı ve geri sayım
-- [x] Dosya rafı
-- [x] Hava durumu entegrasyonu
-- [x] Altı renk teması
-- [x] Çoklu monitör desteği
-- [x] Global klavye kısayolu
-- [ ] Bildirim merkezi entegrasyonu
-- [ ] CPU/RAM sistem monitörü
-- [ ] Çoklu dil desteği
-- [ ] Otomatik güncelleme sistemi
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌨️ Klavye kısayolları</h3>
+      <p><kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd><br/><sub>Dinamik Ada'yı gösterir veya gizler.</sub></p>
+      <p><kbd>Esc</kbd><br/><sub>Açık pencere veya ayar görünümünü kapatır.</sub></p>
+      <p><kbd>Space</kbd><br/><sub>Ada odaktayken medyayı oynatır/duraklatır.</sub></p>
+      <p><kbd>←</kbd> / <kbd>→</kbd><br/><sub>Ada odaktayken önceki/sonraki parçaya geçer.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Temalar</h3>
+      <p>⚫ <strong>Dark</strong> <code>#1C1C1E</code><br/><sub>Dengeli, koyu görünüm</sub></p>
+      <p>⚪ <strong>Light</strong> <code>#F2F2F7</code><br/><sub>Aydınlık arayüz</sub></p>
+      <p>🔵 <strong>Dark Blue</strong> <code>#0F2027</code> · 🌌 <strong>Purple</strong> <code>#2A1B3D</code></p>
+      <p>🟢 <strong>Green</strong> <code>#1B3A2A</code> · 🔴 <strong>Red</strong> <code>#3D1B1B</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧰 Teknoloji yığını</h3>
+      <p><strong>Arayüz</strong><br/><code>WPF</code> <code>XAML</code></p>
+      <p><strong>Uygulama katmanı</strong><br/><code>C#</code> <code>.NET 8</code></p>
+      <p><strong>Sistem entegrasyonu</strong><br/><code>Windows GSMTC</code> <code>Win32 API</code></p>
+      <p><strong>Servis ve animasyon</strong><br/><code>Open-Meteo API</code> <code>WPF Storyboards</code> <code>Easing</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ Yol haritası</h3>
+      <p><strong>✓ Tamamlandı</strong><br/>
+      Medya oturumları · Zamanlayıcı · Dosya rafı<br/>
+      Hava durumu · 6 tema · Çoklu monitör<br/>
+      Global klavye kısayolu</p>
+      <p><strong>◷ Planlandı</strong><br/>
+      Bildirim merkezi · CPU/RAM monitörü<br/>
+      Çoklu dil desteği · Otomatik güncelleme</p>
+    </td>
+  </tr>
+</table>
 
 ## 📄 Lisans
 
