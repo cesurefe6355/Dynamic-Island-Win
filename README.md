@@ -1,6 +1,5 @@
-<div align="center">
+ <div align="center">
 
-<!-- Animated hero -->
 <a href="https://github.com/cesurefe6355/Dynamic-Island-Win">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:0891B2&height=220&section=header&text=Dynamic%20Island%20Win&fontSize=54&fontColor=F8FAFC&fontAlignY=36&desc=Windows%20i%C3%A7in%20ak%C4%B1ll%C4%B1%20ve%20ak%C4%B1c%C4%B1%20bir%20masa%C3%BCst%C3%BC%20deneyimi&descSize=17&descAlignY=59&animation=fadeIn" alt="Dynamic Island Win — animated header" />
 </a>
@@ -19,12 +18,13 @@
 
 <br/>
 
-**Windows masaüstünde Dinamik Ada deneyimi.**  
+**Windows masaüstünde Dinamik Ada deneyimi.**
+
 Medya, araçlar ve hızlı işlemler — tek, zarif bir arayüzde.
 
 <br/>
 
-[Özellikler](#-öne-çıkan-özellikler) · [Kurulum](#-kurulum) · [Hızlı bakış](#-hızlı-bakış) · [Lisans](#-lisans)
+[Özellikler](#-öne-çıkan-özellikler) · [Ekran görüntüleri](#-ekran-görüntüleri) · [Kurulum](#-kurulum) · [Hızlı bakış](#-hızlı-bakış) · [Lisans](#-lisans)
 
 </div>
 
@@ -74,19 +74,64 @@ Arayüz; akıcı geçişler, kişiselleştirilebilir temalar ve masaüstü kulla
 <details>
   <summary><strong>Ek ayrıntılar</strong></summary>
   <br/>
-  - Global kısayol: <code>Ctrl + Shift + H</code><br/>
-  - WPF Storyboard ve easing tabanlı arayüz animasyonları<br/>
-  - Windows medya oturumu entegrasyonu (GSMTC)<br/>
-  - Fareyle etkileşim ve sürükle-bırak desteği<br/>
+
+  - Global kısayol: `Ctrl + Shift + H`
+  - WPF Storyboard ve easing tabanlı arayüz animasyonları
+  - Windows medya oturumu entegrasyonu (GSMTC)
+  - Fareyle etkileşim ve sürükle-bırak desteği
   - Temalar: Dark, Light, Dark Blue, Purple, Green ve Red
 </details>
 
-## 🎞️ Önizleme
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:A78BFA&height=3&section=header&animation=twinkling" alt="Animasyonlu renk çizgisi" />
 
-<!-- Kendi ekran görüntünüzü veya kısa demo GIF'inizi docs/demo.gif konumuna ekleyip aşağıdaki satırın yorum işaretlerini kaldırın. -->
-<!-- <p align="center"><img src="docs/demo.gif" width="760" alt="Dynamic Island Win uygulama demosu" /></p> -->
+## 🎞️ Ekran görüntüleri
 
-<p align="center"><em>Uygulamanın gerçek ekran görüntüsü veya kısa bir demo GIF'i bu bölümü en iyi şekilde tamamlar.</em></p>
+Dynamic Island Win arayüzüne ve özelliklerine aşağıdaki ekran görüntülerinden göz atabilirsiniz.
+
+<p align="center">
+  <img src="screenshots/screenshots1.png" width="85%" alt="Dynamic Island Win ana arayüzü" />
+</p>
+
+<p align="center"><em>Ana arayüz</em></p>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="screenshots/screenshots2.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 2" />
+      <br/>
+      <sub>Görünüm 2</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="screenshots/screenshots3.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 3" />
+      <br/>
+      <sub>Görünüm 3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="screenshots/screenshots4.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 4" />
+      <br/>
+      <sub>Görünüm 4</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="screenshots/screenshots5.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 5" />
+      <br/>
+      <sub>Görünüm 5</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="screenshots/screenshots6.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 6" />
+      <br/>
+      <sub>Görünüm 6</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="screenshots/screenshots7.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 7" />
+      <br/>
+      <sub>Görünüm 7</sub>
+    </td>
+  </tr>
+</table>
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:A78BFA&height=3&section=header&animation=twinkling" alt="Animasyonlu renk çizgisi" />
 
@@ -155,7 +200,6 @@ dotnet run
 ## 📄 Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında yayımlanır.
-
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:0891B2&height=110&section=footer&animation=twinkling" alt="Animasyonlu alt bilgi" />
