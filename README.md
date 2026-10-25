@@ -89,7 +89,7 @@ Arayüz; akıcı geçişler, kişiselleştirilebilir temalar ve masaüstü kulla
 Dynamic Island Win arayüzüne ve özelliklerine aşağıdaki ekran görüntülerinden göz atabilirsiniz.
 
 <p align="center">
-  <img src="screenshots/screenshots1.png" width="85%" alt="Dynamic Island Win ana arayüzü" />
+  <img src="screenshot/screenshots1.png" width="85%" alt="Dynamic Island Win ana arayüzü" />
 </p>
 
 <p align="center"><em>Ana arayüz</em></p>
@@ -97,36 +97,36 @@ Dynamic Island Win arayüzüne ve özelliklerine aşağıdaki ekran görüntüle
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="screenshots/screenshots2.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 2" />
+      <img src="screenshot/screenshots2.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 2" />
       <br/>
       <sub>Görünüm 2</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="screenshots/screenshots3.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 3" />
+      <img src="screenshot/screenshots3.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 3" />
       <br/>
       <sub>Görünüm 3</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="screenshots/screenshots4.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 4" />
+      <img src="screenshot/screenshots4.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 4" />
       <br/>
       <sub>Görünüm 4</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="screenshots/screenshots5.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 5" />
+      <img src="screenshot/screenshots5.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 5" />
       <br/>
       <sub>Görünüm 5</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="screenshots/screenshots6.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 6" />
+      <img src="screenshot/screenshots6.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 6" />
       <br/>
       <sub>Görünüm 6</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="screenshots/screenshots7.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 7" />
+      <img src="screenshot/screenshots7.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 7" />
       <br/>
       <sub>Görünüm 7</sub>
     </td>
