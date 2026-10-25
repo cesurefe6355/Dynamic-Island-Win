@@ -1,0 +1,25 @@
+name: Unzip Repository Files
+
+on:
+  workflow_dispatch: # Bu işlem GitHub panelinden manuel olarak tetiklenmesini sağlar
+  push:
+    paths:
+      - '*.zip' # Ana dizine yeni bir zip dosyası yüklendiğinde tetiklenir
+
+jobs:
+  unzip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Extract ZIP file
+        run: |
+          # ZIP dosyasının adını buraya yazabilirsin (örneğin: "Dynamic Island Win.zip")
+          unzip -o "Dynamic Island Win.zip" -d extracted_files/
+          
+      - name: Commit and push unpacked files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Otomatik olarak ZIP dosyası ayıklandı"
+          branch: main
