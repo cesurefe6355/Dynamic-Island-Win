@@ -114,21 +114,16 @@ Dynamic Island Win arayüzüne ve özelliklerine aşağıdaki ekran görüntüle
       <sub>Görünüm 4</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="screenshot/screenshots5.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 5" />
+      <img src="screenshot/screenshots6.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 5" />
       <br/>
       <sub>Görünüm 5</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="screenshot/screenshots6.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 6" />
+      <img src="screenshot/screenshots7.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 6" />
       <br/>
       <sub>Görünüm 6</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="screenshot/screenshots7.png" width="100%" alt="Dynamic Island Win ekran görüntüsü 7" />
-      <br/>
-      <sub>Görünüm 7</sub>
     </td>
   </tr>
 </table>
