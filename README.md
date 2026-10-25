@@ -99,8 +99,6 @@ Arayüz; akıcı geçişler, kişiselleştirilebilir temalar ve masaüstü kulla
 2. Yayımlanmış en son sürümün arşivini indirin ve bir klasöre çıkarın.
 3. `Dynamic_Island_Win.exe` dosyasını çalıştırın.
 
-> Releases bölümünde henüz bir paket yoksa kaynak koddan çalıştırma adımlarını izleyin.
-
 ### Kaynak koddan çalıştırma
 
 Gereksinimler: **Windows 10/11** ve **.NET 8 SDK**.
@@ -157,18 +155,6 @@ dotnet run
 - [ ] CPU/RAM sistem monitörü
 - [ ] Çoklu dil desteği
 - [ ] Otomatik güncelleme sistemi
-
-## 🤝 Katkıda bulunma
-
-Fikir, hata bildirimi ve kod katkıları memnuniyetle karşılanır.
-
-1. Depoyu **fork** edin.
-2. Yeni bir dal açın: `git checkout -b feature/yeni-ozellik`
-3. Değişikliklerinizi kaydedin: `git commit -m "feat: yeni özellik"`
-4. Dalı gönderin: `git push origin feature/yeni-ozellik`
-5. Bir **Pull Request** oluşturun.
-
-Hata bildirmek veya özellik önermek için [Issues](https://github.com/cesurefe6355/Dynamic-Island-Win/issues) bölümünü kullanın.
 
 ## 📄 Lisans
 
