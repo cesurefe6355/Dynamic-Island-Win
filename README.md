@@ -192,6 +192,23 @@ dotnet run
   </tr>
 </table>
 
+
+### Troubleshooting
+
+**The application does not start**
+- Make sure your Windows version is supported.
+- Install the .NET 8 Desktop Runtime if required by the application build.
+
+**Building from source fails**
+- Install the .NET 8 SDK.
+- Run `dotnet restore` before `dotnet build -c Release`.
+- Check the build output for missing dependencies or configuration errors.
+
+**Still having issues?**
+
+Open an issue in the [GitHub repository](https://github.com/cesurefe6355/Dynamic-Island-Win/issues) and include the error message and relevant details.
+
+
 ## 📄 Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında yayımlanır.
