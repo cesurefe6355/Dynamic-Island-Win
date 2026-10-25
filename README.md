@@ -176,7 +176,7 @@
 
 ### 1️⃣ İndir & Çalıştır
 
-[![Download](https://img.shields.io/badge/⬇️%20Son%20Sürümü%20İndir-2ea44f?style=for-the-badge&logo=github)](https://github.com/KULLANICI_ADIN/Dynamic-Island-Win/releases/latest)
+[![Download](https://img.shields.io/badge/⬇️%20Son%20Sürümü%20İndir-2ea44f?style=for-the-badge&logo=github)](https://github.com/cesurefe6355/Dynamic-Island-Win/releases/latest)
 
 </div>
 
