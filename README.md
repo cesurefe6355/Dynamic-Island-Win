@@ -161,6 +161,4 @@ Bu proje [MIT Lisansı](LICENSE) altında yayımlanır.
   <a href="https://github.com/cesurefe6355/Dynamic-Island-Win/stargazers">
     <img src="https://img.shields.io/github/stars/cesurefe6355/Dynamic-Island-Win?style=social" alt="GitHub yıldızları" />
   </a>
-  <p><sub>Beğendiyseniz projeye bir ⭐ bırakabilirsiniz.</sub></p>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:0891B2&height=110&section=footer&animation=twinkling" alt="Animasyonlu alt bilgi" />
 </div>
